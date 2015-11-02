@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/basic/controllers/CountryController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/controllers/SiteController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/models/Country.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/models/EntryForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/views/country/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/views/site/entry-confirm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic/views/site/entry.php" charset="UTF-8" />
+  </component>
+</project>
